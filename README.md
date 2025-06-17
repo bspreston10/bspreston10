@@ -24,19 +24,9 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bspreston10&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ## Currently Working On 🗒️
 
 ---
-
-## Certifications 🥇
-
-- **FINRA Securities Industries Essential (SIE)**
-- **CFI Financial Modeling & Valuation Analyst (FMVA)**
-- **Tableau Certified Desktop Specialist**
-- **Bloomberg Market Concepts**
-
 ## Past Projects 📂
 
 - **Options Mispricing Detector**  
@@ -47,15 +37,13 @@
 
 - **FOMC Sentiment Strategy**  
   NLP-based FOMC parser + trading overlay that adjusts gold exposure based on central bank tone and implied volatility.
+  
+## Certifications 🥇
 
----
-
-## Recent Interests 📊
-- Adaptive execution auditing (latency, fill rates, slippage)
-- Sentiment-driven trading overlays (FinBERT + real-time feeds) 
-- Exploring flaws in market microstructure + behavioral edges
-- Writing and visualizing alpha-driven research for a broader audience
-
+- **FINRA Securities Industries Essential (SIE)**
+- **CFI Financial Modeling & Valuation Analyst (FMVA)**
+- **Tableau Certified Desktop Specialist**
+- **Bloomberg Market Concepts**
 ---
 
 # Latest Blog posts 📍
@@ -64,3 +52,5 @@
 
 ###
 🧠 *“All models are wrong, but some are profitable.”*  
+
+[![](https://visitcount.itsvg.in/api?id=bspreston10&icon=0&color=0)](https://visitcount.itsvg.in)
