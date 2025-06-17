@@ -1,4 +1,4 @@
-https://github.com/bspreston10/bspreston10/blob/main/header.png
+![header](https://github.com/bspreston10/bspreston10/blob/main/header.png)
 
 # 💫 About Me:
 I'm a financial data analyst and aspiring quant researcher passionate about uncovering patterns in markets through rigorous analysis, research, and modeling. My work blends mathematics, economics, and machine learning to build systems that make sense of noisy, high-frequency financial data.
