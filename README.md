@@ -24,6 +24,10 @@ I'm a financial data analyst and aspiring quant researcher passionate about unco
 
 ---
 
+## ✔️ Certifications
+
+**FINRA Securities Industries Essential (SIE)** **CFI Financial Modeling & Valuation Analyst (FMVA)**
+
 ## 📁 Projects
 
 - 🔎 **Options Mispricing Detector**  
@@ -34,10 +38,6 @@ I'm a financial data analyst and aspiring quant researcher passionate about unco
 
 - 🧾 **FOMC Sentiment Strategy**  
   NLP-based FOMC parser + trading overlay that adjusts gold exposure based on central bank tone and implied volatility.
-
-- 🌕 **Lunar Factor Rotation**  
-  Investigating abnormal returns in global equity factor premiums across moon phases.  
-  *Yes, moon data meets finance.*
 
 ---
 
@@ -54,7 +54,7 @@ I'm a financial data analyst and aspiring quant researcher passionate about unco
 
 📫 [Email me](mailto:bennettpreston@example.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/bennettpreston)  
-📘 [Medium Blog](https://medium.com/@bennettpreston) *(in-progress)*
+📘 [Medium Blog](https://medium.com/@bennettpreston)
 
 ---
 
