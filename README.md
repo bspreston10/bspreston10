@@ -7,10 +7,10 @@ I'm a financial data analyst and aspiring quant researcher passionate about unco
 ## 🌐 Socials:
 <p align="center">
   <a href="https://www.linkedin.com/in/bennett-preston/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="height:40px;">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="height:60px;">
   </a>
   <a href="https://medium.com/@bennett.preston10">
-    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" style="height:100px;">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" style="height:60px;">
   </a>
 </p>
 
