@@ -7,7 +7,7 @@
 
 🔍 My work focuses on uncovering hidden structure in noisy, high-frequency financial data. Merging tools from econometrics, statistical learning, and computational finance to build robust, data-driven trading and research systems.
 
-🧠 I’m passionate about bridging theory and practice — whether it’s testing market anomalies, designing execution strategies, or modeling risk dynamics, always with a bias toward clarity, rigor, and real-world impact.
+🧠 I’m passionate about bridging theory and practice, whether it’s testing market anomalies, designing execution strategies, or modeling risk dynamics, always with a bias toward clarity, rigor, and real-world impact.
 
 ## Socials 🌐
 <p align="center">
