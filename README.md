@@ -1,11 +1,13 @@
 ![header](https://github.com/bspreston10/bspreston10/blob/main/header.png)
 
 ## About Me ☕
-I'm a financial data analyst and aspiring quant researcher passionate about uncovering patterns in markets through rigorous analysis, research, and modeling. My work blends mathematics, economics, and machine learning to build systems that make sense of noisy, high-frequency financial data.
+🎓 I’m an Economics graduate from the University of Connecticut, with advanced specialization in Data Science & Business Analytics from the University of Texas at Austin, McCombs School of Business.
 
-## Education 🏫
-- Studied **Economics** at **University of Connecticut**
-- Studied **Data Science** at **University of Texas McCombs School of Business**
+📈 As a financial data analyst and aspiring quantitative researcher, I’m driven by the challenge of decoding markets through systematic research, mathematical modeling, and machine learning.
+
+🔍 My work focuses on uncovering hidden structure in noisy, high-frequency financial data — merging tools from econometrics, statistical learning, and computational finance to build robust, data-driven trading and research systems.
+
+🧠 I’m passionate about bridging theory and practice — whether it’s testing market anomalies, designing execution strategies, or modeling risk dynamics — always with a bias toward clarity, rigor, and real-world impact.
 
 ## Socials 🌐
 <p align="center">
