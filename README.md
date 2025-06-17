@@ -56,8 +56,8 @@ I'm a financial data analyst and aspiring quant researcher passionate about unco
 ---
 
 # Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [Confidence Cracks or Buying Opportunities? Decoding the 2025 U.S Bond Market](https://medium.com/@bennett.preston10/confidence-cracks-or-buying-opportunities-decoding-the-2025-u-s-bond-market-3b79b3e63d1a)
+- [Where Black-Scholes Breaks: A Deep Dive into its Model Caveats](https://medium.com/economics-central/where-black-scholes-breaks-a-deep-dive-into-its-model-caveats-7c6cc1bc431d)
 
 ###
 🧠 *“All models are wrong, but some are profitable.”*  
