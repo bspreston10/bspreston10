@@ -8,9 +8,9 @@
 
 I'm a financial data analyst and aspiring quant researcher passionate about uncovering patterns in markets through rigorous analysis, research, and modeling. My work blends mathematics, economics, and machine learning to build systems that make sense of noisy, high-frequency financial data.
 
-- 🎓 B.A. in Economics, University of Connecticut
+- 🎓 Studied [Economics] at University of Connecticut and [Data Science] at the University of Texas McCombs School of Business
 - 🧠 Self-driven projects in options pricing, regime-switching models, NLP-based sentiment, and hybrid trading systems
-- ⚡ Focus areas: volatility modeling, backtesting, alternative data, execution analysis
+- 🗒️ Reguarly post my research in my Medium blog: [Medium Blog](https://medium.com/@bennett.preston10)<br> 
 
 ---
 
