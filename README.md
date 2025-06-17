@@ -59,5 +59,9 @@ I'm a financial data analyst and aspiring quant researcher passionate about unco
 
 ---
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ###
 🧠 *“All models are wrong, but some are profitable.”*  
