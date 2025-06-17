@@ -11,7 +11,11 @@ I'm a financial data analyst and aspiring quant researcher passionate about unco
 ---
 [![](https://visitcount.itsvg.in/api?id=bspreston10&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+# About Me
+- Studied Economics at University of Connecticut and Data Science and University of Texas McCombs School of Business
+- Ocasional posts my research: [Medium Blog](https://medium.com/@bennett.preston10)
+- ⚡ Focus on quantitative research and trading
 
 **Quantitative & ML**  
 `Black-Scholes / Heston Models` `Hidden Markov Models (HMM)` `Monte Carlo Simulations` `Time Series Forecasting` `FinBERT / NLP` `Risk Modeling`
@@ -20,7 +24,10 @@ I'm a financial data analyst and aspiring quant researcher passionate about unco
 
 ## ✔️ Certifications
 
-**FINRA Securities Industries Essential (SIE)** **CFI Financial Modeling & Valuation Analyst (FMVA)**
+- **FINRA Securities Industries Essential (SIE)**
+- **CFI Financial Modeling & Valuation Analyst (FMVA)**
+- **Tableau Certified Desktop Specialist**
+- **Bloomberg Market Concepts**
 
 ## 📁 Projects
 
@@ -38,18 +45,9 @@ I'm a financial data analyst and aspiring quant researcher passionate about unco
 ## 📊 Recent Interests
 
 - Adaptive execution auditing (latency, fill rates, slippage)
-- Sentiment-driven trading overlays (FinBERT + real-time feeds)
+- Sentiment-driven trading overlays (FinBERT + real-time feeds) 
 - Exploring flaws in market microstructure + behavioral edges
 - Writing and visualizing alpha-driven research for a broader audience
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
-
 
 ---
 
