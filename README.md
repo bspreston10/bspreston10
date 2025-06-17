@@ -16,7 +16,12 @@ I'm a financial data analyst and aspiring quant researcher passionate about unco
 
 ## 🛠️ Tech Stack
 
-**Languages & Tools**  
+**Languages & Tools**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,py,mysql,tensorflow,vscode," />
+  </a>
+</p>
 `Python` `Pandas` `SQL` `NumPy` `scikit-learn` `Matplotlib` `Streamlit` `Backtrader` `FastAPI` `MetaTrader 5 API` `IBKR API`
 
 **Quantitative & ML**  
