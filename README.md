@@ -2,8 +2,10 @@
 
 ## About Me ☕
 I'm a financial data analyst and aspiring quant researcher passionate about uncovering patterns in markets through rigorous analysis, research, and modeling. My work blends mathematics, economics, and machine learning to build systems that make sense of noisy, high-frequency financial data.
-- Studied Economics at University of Connecticut and Data Science and University of Texas McCombs School of Business
-- Ocasional posts my research: [Medium Blog](https://medium.com/@bennett.preston10)
+
+## Education 🏫
+- Studied **Economics** at **University of Connecticut**
+- Studied **Data Science** at **University of Texas McCombs School of Business**
 
 ## Socials 🌐
 <p align="center">
