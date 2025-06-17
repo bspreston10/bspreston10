@@ -2,7 +2,8 @@
 
 # 💫 About Me:
 I'm a financial data analyst and aspiring quant researcher passionate about uncovering patterns in markets through rigorous analysis, research, and modeling. My work blends mathematics, economics, and machine learning to build systems that make sense of noisy, high-frequency financial data.
-
+- Studied Economics at University of Connecticut and Data Science and University of Texas McCombs School of Business
+- Ocasional posts my research: [Medium Blog](https://medium.com/@bennett.preston10)
 
 ## 🌐 Socials:
 <p align="center">
@@ -20,10 +21,6 @@ I'm a financial data analyst and aspiring quant researcher passionate about unco
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bspreston10&icon=0&color=0)](https://visitcount.itsvg.in)
-
-# About Me
-- Studied Economics at University of Connecticut and Data Science and University of Texas McCombs School of Business
-- Ocasional posts my research: [Medium Blog](https://medium.com/@bennett.preston10)
 
 **Quantitative & ML**  
 `Black-Scholes / Heston Models` `Hidden Markov Models (HMM)` `Monte Carlo Simulations` `Time Series Forecasting` `FinBERT / NLP` `Risk Modeling`
