@@ -51,7 +51,6 @@ I'm a financial data analyst and aspiring quant researcher passionate about unco
 ---
 
 ## 📊 Recent Interests
-
 - Adaptive execution auditing (latency, fill rates, slippage)
 - Sentiment-driven trading overlays (FinBERT + real-time feeds) 
 - Exploring flaws in market microstructure + behavioral edges
