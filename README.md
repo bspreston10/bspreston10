@@ -15,15 +15,6 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ---
-## Currently Working On 🗒️
-I’m building a **Bull Put Credit Spread Identifier:** a tool that scans all available put credit spreads for a given stock and selects the most optimal trade based on a custom scoring and weighting system.
-
-While the core logic is already in place, the roadmap includes:
-	•	Expanding to support a broader range of options strategies
-	•	Improving trade selection logic and risk management heuristics
-	•	Competing against the bot myself to see if I can outperform my own model
-
-📊 Daily performance updates for both me and the bot will be posted below. Let’s see who wins.
 
 ---
 ## Past Projects 📂
